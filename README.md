@@ -20,4 +20,4 @@ This project analyzes a pizza restaurant's sales dataset to discover key insight
 * **Size Preference:** Large-sized pizzas are the most popular choice among customers, driving maximum sales volume.
 
 ## 📊 Dashboard Preview
-![Pizza Sales Dashboard](pizza_dashboard.png)
+![Pizza Sales Dashboard](pizza_dashboard.jpeg)
